@@ -1,7 +1,5 @@
 # FACE-MASK-FILTER
-This is my first AR based filter. 
-
-which i made online in a workshop: 
+This was my first AR based filter which i made online in a workshop: 
 you can view it here:
 https://youtu.be/ePGfvUezpGM
 
